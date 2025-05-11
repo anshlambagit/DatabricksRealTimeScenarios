@@ -1,0 +1,32 @@
+﻿Branch_ID,Dealer_ID,Model_ID,Revenue,Units_Sold,Date_ID,Month,Year,BranchName,DealerName,Product_Name,Date
+BR2280,DLR0048,Aud-M235,23929671,3,DT01204,4,2020,Deccan Motors,De Tomaso Motors,Audi,4/18/2020 0:00
+BR2285,DLR0149,Vol-M109,13073782,2,DT01217,5,2020,Herald Motors,Panoz Motors,Volkswagen,5/1/2020 0:00
+BR2290,DLR0049,Aud-M236,14157891,3,DT01205,4,2020,Herald Motors,Dodge Motors,Audi,4/19/2020 0:00
+BR2295,DLR0150,Vol-M110,16770687,3,DT01218,5,2020,Zion Automobils,Panther Motors,Volvo,5/2/2020 0:00
+BR2300,DLR0050,Aud-M237,5769353,1,DT01206,4,2020,Zion Automobils,Donkervoort Motors,Audi,4/20/2020 0:00
+BR2305,DLR0151,Agr-M111,18708022,2,DT01219,5,2020,Atlantic Motor Company,Peel Motors,Agrale,5/3/2020 0:00
+BR2310,DLR0051,Aud-M238,6666418,1,DT01207,4,2020,Atlantic Motor Company,Edsel Motors,Audi,4/21/2020 0:00
+BR2315,DLR0152,Agr-M112,18804507,3,DT01220,5,2020,2008 NRHP-listed,Perodua Motors,Agrale,5/4/2020 0:00
+BR2320,DLR0052,Aud-M239,5651517,3,DT01208,4,2020,2008 NRHP-listed,e.GO Mobile Motors,Audi,4/22/2020 0:00
+BR2330,DLR0053,Aud-M240,21747525,3,DT01209,4,2020,Blankinship Motor Company Building,Eicher Polaris Motors,Audi,4/23/2020 0:00
+BR2335,DLR0154,Che-M114,28867227,3,DT01222,5,2020,Bohn Motor Company Automobile Dealership,PGO Motors,Chevrolet,5/6/2020 0:00
+BR2340,DLR0054,Aud-M241,7111275,1,DT01210,4,2020,Bohn Motor Company Automobile Dealership,Elva Motors,Audi,4/24/2020 0:00
+BR2345,DLR0155,Cit-M115,17266956,2,DT01223,5,2020,Buick Automobile Company Building,Piaggio Motors,Citroën,5/7/2020 0:00
+BR2350,DLR0055,BMW-M242,1772823,3,DT01211,4,2020,Buick Automobile Company Building,Facel Vega Motors,BMW,4/25/2020 0:00
+BR2355,DLR0156,Cit-M116,18011674,2,DT01224,5,2020,Cadillac Automobile Company Building,Plymouth Motors,Citroën,5/8/2020 0:00
+BR2360,DLR0056,BMW-M243,17444340,3,DT01212,4,2020,Cadillac Automobile Company Building,Ferrari Motors,BMW,4/26/2020 0:00
+BR2370,DLR0057,BMW-M244,1498461,1,DT01213,4,2020,Casa de cadillac,Fiat Motors,BMW,4/27/2020 0:00
+BR2375,DLR0158,Fia-M118,7855838,1,DT01226,5,2020,Cass Motor Sales,"Pontiac, Asüna Motors",Fiat,5/10/2020 0:00
+BR2380,DLR0058,BMW-M245,3241882,2,DT01214,4,2020,Cass Motor Sales,Fiat do Brasil Motors,BMW,4/28/2020 0:00
+BR2385,DLR0159,For-M119,2413373,1,DT01227,5,2020,Claremore Auto Dealership,Porsche Motors,Ford,5/11/2020 0:00
+BR2395,DLR0160,Hon-M120,19441050,2,DT01228,5,2020,Clemens Automobile Company Building,Premier Motors,Honda,5/12/2020 0:00
+BR2405,DLR0161,Mer-M121,2583356,2,DT01229,5,2020,Colman Automotive Building,Proton Motors,Mercedes-Benz,5/13/2020 0:00
+BR2410,DLR0061,BMW-M248,1996961,1,DT01217,5,2020,Colman Automotive Building,Ford America Motors,BMW,5/1/2020 0:00
+BR2415,DLR0162,Mer-M122,10879764,3,DT01230,5,2020,H Street Playhouse,Puma Motors,Mercedes-Benz,5/14/2020 0:00
+BR2420,DLR0062,BMW-M249,2428393,1,DT01218,5,2020,H Street Playhouse,Ford Australia Motors,BMW,5/2/2020 0:00
+BR2440,DLR0064,MG-M251,14491058,2,DT01220,5,2020,Hupmobile Building,Ford Europe Motors,MG,5/4/2020 0:00
+BR2445,DLR0165,Peu-M125,4188963,1,DT01233,5,2020,Jennings Ford Automobile Dealership,Renault Motors,Peugeot,5/17/2020 0:00
+BR2450,DLR0065,MG-M252,5979549,1,DT01221,5,2020,Jennings Ford Automobile Dealership,Ford India Motors,MG,5/5/2020 0:00
+BR2455,DLR0166,Peu-M126,23079612,3,DT01234,5,2020,Jones Motor Company,Rivian Motors,Peugeot,5/18/2020 0:00
+BR2460,DLR0066,Jee-M253,3309294,2,DT01222,5,2020,Jones Motor Company,Freightliner Motors,Jeep,5/6/2020 0:00
+BR2470,DLR0067,Jee-M254,2050218,3,DT01223,5,2020,Kindel Building,FSO Motors,Jeep,5/7/2020 0:00
